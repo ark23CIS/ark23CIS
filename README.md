@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on glassdoor community as a contractor in the backend team.
+🔭 I’m currently working for ventions as a senior backend developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danila-strizhonok-a65558237/) 
